@@ -4,4 +4,5 @@ Es un videojuego para niños de 8 a 12 años,  la historia se desarrolla en un b
 Se creo un juego especial para niños de donde hay un personaje que cuida al bosque donde incluimos aprendizaje y el cuidado del ambiente donde los niveles enseñan eso el ultimo nivel será enfrentarse a una sombra para recuperar el árbol de la vida, devolver la paz del bosque y demostrar que el trabajo equipo. 
 # Fase 2 Diagrama de flujo 
 Se creo un diagrama de acuerdo al análisis donde se incluyo el menú principal, el tutorial del juego, el inicio después del tuto, el inventario del juego, opciones y configuración.
-# Fase 3
+# Fase 3 Código del juego 
+Se creo el código del juego a base del diagrama de flujo para obtener la estructura del juego donde se incluyo la herencia también. 
