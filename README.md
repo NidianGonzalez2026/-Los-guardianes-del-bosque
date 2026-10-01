@@ -6,3 +6,5 @@ Se creo un juego especial para niños de donde hay un personaje que cuida al bos
 Se creo un diagrama de acuerdo al análisis donde se incluyo el menú principal, el tutorial del juego, el inicio después del tuto, el inventario del juego, opciones y configuración.
 # Fase 3 Código del juego 
 Se creo el código del juego a base del diagrama de flujo para obtener la estructura del juego donde se incluyo la herencia también. 
+# Fase 4 Presentación final 
+Se creo una cuenta de GitHub en donde hicimos un  repositorio y se agregaron las fases. 
